@@ -7,7 +7,6 @@
 #viewMobile{
     height: 100vh !important;
     width: auto !important;
-    margin: 0px;
 }
 
 @media (min-width: 1281px) {
